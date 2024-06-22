@@ -1,0 +1,72 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+
+}
+
+body{
+    background-color: rgb(9, 9, 156);
+}
+
+
+.wrapper{
+
+width: 1000px;
+height: 1000px;
+border-radius:  50%;
+background-color: rgb(114, 73, 236);
+color: green;
+font-size: 20px;
+text-align: center;
+border:Sxp solid purple;
+}
+
+
+input{
+    position: absolute;
+    width: 150px;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: rgb(235, 68, 235);
+    color:rgb(5, 1, 29);
+    font-size: 20px;
+    text-align: center;
+}
+
+::placeholder{
+    color: blue;
+}
+
+
+#left_1{
+    width:200px;
+    padding: 25px;
+    left:38%;
+    top: 5%;
+}
+
+#right_2{
+    left:20%;
+    top: 10%;
+}
+
+#right_3{
+    left:75%;
+    top: 25%;
+}
+#right_4{
+    left:1%;
+    top: 40%;
+}
+
+#right_5{
+    left:8%;
+    top: 66%;
+}
+#right_6{
+    
+    left:21%;
+    top: 86%;
+}
+
